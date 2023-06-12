@@ -1,7 +1,4 @@
-# Notes-Test
-## Learning Markdown
-
-# Code Here
+## Code Here
 
 `let name = "Sam"`
 
